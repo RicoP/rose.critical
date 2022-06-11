@@ -1,7 +1,7 @@
 # rose.critical
 A lib for savely accessing critical sections for multithreading
 
-##How to use
+## How to use
 
 ```C++
 struct InputState {
